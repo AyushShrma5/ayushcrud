@@ -1,0 +1,10 @@
+body {
+    background-color: lightgray;
+}
+.error-message{
+   color: red;
+}
+
+label.required:after {
+    content: "* ";
+}
